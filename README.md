@@ -1,6 +1,7 @@
 ### Well hello there!
 
 This is a stupid tutorial. Why don't they include pull, add, commit, push?
+I don't know why they worry about forking without first telling users how to change anything beyond the readme file.
 
 This repository is meant to provide an example 
 for *forking* a repository on GitHub.
