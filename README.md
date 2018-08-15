@@ -1,6 +1,6 @@
 ### Well hello there!
 
-This is a stupid tutorial.
+This is a stupid tutorial. Why don't they include pull, add, commit, push?
 
 This repository is meant to provide an example 
 for *forking* a repository on GitHub.
